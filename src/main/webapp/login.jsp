@@ -358,23 +358,12 @@
     </style>
 </head>
 <body>
-    <div class="header">
-        <nav>
-            <ul>
-                <li><a href="#"><i class="fas fa-sign-in-alt"></i> Login</a></li>
-                <li><a href="#"><i class="fas fa-info-circle"></i> About Us</a></li>
-                <li><a href="register.jsp"><i class="fas fa-user-plus"></i> Register</a></li>
-                <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
-            </ul>
-        </nav>
-    </div>
+    
     
     <h1><i class="fas fa-desktop"></i> Welcome to Spare TechHub</h1>
     
     <div class="container">
-        <div class="image">
-            <img src="log1.jpg" class="logo5" alt="Spare TechHub Logo">
-        </div>
+       
         
         <div class="login">
             <div class="form">
